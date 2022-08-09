@@ -1,0 +1,7 @@
+echo "# Dashboard-Samples" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jakereid208/Dashboard-Samples.git
+git push -u origin main
